@@ -1,0 +1,30 @@
+body{
+    background-image: url(fundo.calculadora.webp);
+    text-align: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-items: center;
+    margin: 0;
+}
+h3{
+    text-align: center;
+    font-size: 40px;
+
+}
+footer{
+    background-color: rgb(162, 160, 233);
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+
+}
+.rodape{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+p{
+    padding: 10px;
+}
